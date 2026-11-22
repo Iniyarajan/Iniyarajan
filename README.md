@@ -20,7 +20,7 @@ A decade of building **iOS &amp; mobile apps** in Swift &amp; SwiftUI — leadin
 |---|---|
 | **Enterprise iOS** · 10+ yrs | Led iOS delivery at a global IT services firm — a major cruise line's guest app, a US telecom's app, and a biometric safety platform. `Swift` `SwiftUI` |
 | **[ChapterAce](https://chapterace.com)** | AI exam-prep app for Indian board students — fresh board-pattern papers, marked like an examiner. `React Native` `Node` `Gemini` |
-| **Billing Platform** | Transport &amp; parcel billing two businesses run their daily operations on. `Laravel` `MySQL` |
+| **Billing Platform** | Transport &amp; parcel billing system — a legacy-to-Laravel migration, built end to end. `Laravel` `MySQL` |
 | **WhatsApp AI agents** | Grounded, tool-using conversational assistants. `Claude SDK` `Node` |
 
 ### 🧰 Tech
